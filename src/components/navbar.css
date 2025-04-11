@@ -1,0 +1,27 @@
+nav {
+  background-color: white !important;
+  /* background-color: rgb(1, 1, 56); */
+}
+.nav-link {
+  color: black !important;
+  font-size: 20px;
+}
+
+.navbar-brand { 
+  color: rgb(1, 1, 60) !important;
+  font-size: 30px;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(1, 1, 60);
+}
+#footer {
+  margin-top: 8.8%;
+  top: 80vh !important;
+  background-color: rgb(1, 1, 60);
+  color: white;
+}
+#footer a {
+  text-decoration: none;
+  color: white;
+}
